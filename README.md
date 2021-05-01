@@ -34,6 +34,7 @@ This project was developed with the following technologies:
 - [ReactJS](https://reactjs.org)
 - [Next.js](https://nextjs.org)
 - [TypeScript](https://www.typescriptlang.org)
+- [Sass](https://sass-lang.com/)
 
 ## 💻 Project
 
